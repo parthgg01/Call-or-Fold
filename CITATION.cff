@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Call or Fold"
+authors:
+  - family-names: Jain
+    given-names: Kshtij
+  - family-names: Gupta
+    given-names: Parth
+  - family-names: Chaudhary
+    given-names: Garvit
+  - family-names: Dixit
+    given-names: Divyanshi
+  - family-names: Singh
+    given-names: Aradhana
+  - family-names: Bansal
+    given-names: Amogh
